@@ -1,0 +1,48 @@
+body {
+	font-family: sans-serif;
+	text-align: center;
+	background-color: rgb(246,246,246);
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 48px;
+	padding-bottom: 48px;
+	border-top-style: solid;
+	border-top-color: black;
+	border-top-width: 5px;
+	border-bottom-style: solid;
+	border-bottom-color: black;
+	border-bottom-width: 5px;
+}
+
+nav {
+	font-weight: bold;
+	font-style: italic;
+}
+
+nav a {
+	color: black;
+	font-style: normal;
+}
+
+h1{
+	text-transform: uppercase;
+}
+
+h2 {
+	font-size: 16px;
+	text-align: left;
+	width: 70%;
+}
+p {
+	font-family: serif;
+	text-align: left;
+	width: 70%;
+}
+hr {
+	margin-top: 24px;
+	margin-bottom: 24px;
+}
+img {
+	width: 150px;
+	height: 150px;
+}
